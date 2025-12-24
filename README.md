@@ -14,7 +14,7 @@ This project is created to practice **UI design and responsiveness**.
 - CSS3  
 
 ## 🌐 Live Demo
-👉 https://jiit-himanshi.github.io/responsive-landing-page/
+👉 https://jiit-himanshi.github.io/Netflix/
 
 ## 📌 Note
 This is a **UI practice project only**.  
