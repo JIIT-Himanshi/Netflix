@@ -13,9 +13,6 @@ This project is created to practice **UI design and responsiveness**.
 - HTML5  
 - CSS3  
 
-## 🌐 Live Demo
-👉 https://jiit-himanshi.github.io/Netflix/
-
 ## 📌 Note
 This is a **UI practice project only**.  
 No backend or real authentication is included.
