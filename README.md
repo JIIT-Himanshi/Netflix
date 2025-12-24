@@ -38,12 +38,3 @@ No backend or real authentication is included.
 ---
 
 Made with ❤️ by **Himanshi**
-
-
-## 📌 Note
-This is a **UI practice project only**.  
-No backend or real authentication is included.
-
----
-
-Made with ❤️ by **Himanshi**
