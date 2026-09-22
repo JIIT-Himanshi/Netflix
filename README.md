@@ -1,6 +1,6 @@
 # Netflix Login Page (UI Clone)
 
-A simple **Netflix Login Page UI clone** built using **HTML & CSS**.  
+A simple **Netflix Login Page UI Clone** built using **HTML & CSS**.  
 This project is created to practice **UI design and responsiveness**.
 
 ## Features
